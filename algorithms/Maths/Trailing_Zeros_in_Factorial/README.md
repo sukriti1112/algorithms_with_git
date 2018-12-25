@@ -15,7 +15,7 @@ Count of trailing 0s
 
 ### Constraints 
 
-1 <= n <= 0^11
+1 <= n <= 10^11
 
 ### Sample Input
 
@@ -31,6 +31,4 @@ Count of trailing 0s
 
 ### Implemented in:
 
-- [Java](
-       https://github.com/sukriti1112/algorithms_with_git/blob/mathalgo/algorithms/Maths/Trailing_Zeros_in_Factorial/trailing_zeros_in_factorial
-      )
+- [Java](trailing_zeros_in_factorial.java)
